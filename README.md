@@ -1,9 +1,7 @@
 # mohhosny
 <h1 align="center">Hi 👋, I'm Mohamed hosny</h1>
 <h3 align="center">A passionate flutter developer from Egypt</h3> 
-
- <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="326" height="326">slot
-
+ <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="326" height="326">
 - 🔭 I’m currently working on [Urate app](https://github.com/Mohhosny2k/urate-master)
 
 - 🌱 I’m currently learning **I look forward to learning more and not being satisfied with what I learned.**
