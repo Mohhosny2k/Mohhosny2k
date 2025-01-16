@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohamed Hosny</h1>
 <h3 align="center">Software Engineer || Mobile Application Developer || Flutter Developer</h3>
 
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="326" height="326" class="center">
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+  <img style="cursor: zoom-in; background-color: hsl(0, 0%, 90%);" 
+       src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" 
+       width="326" height="326">
+</div>
 
 - 🔭 I’m currently working on **Magnet**
 
